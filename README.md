@@ -26,6 +26,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css,javascript,nodejs,mongodb,git,github)](https://skillicons.dev)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -40,6 +43,12 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Saurabhyadav2004)
 
 ---
+
+## 📜 Certifications
+
+- Java Programming
+- SQL & Database Management
+- Full Stack Development
 
 ## 🏆 Projects
 
