@@ -7,8 +7,6 @@
 
 💻 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Cloud Computing
 
-🌱 Currently learning Spring Boot, System Design, Advanced DSA, and Cloud Technologies
-
 📫 Email: saurabh5jan2004@gmail.com
 
 ---
